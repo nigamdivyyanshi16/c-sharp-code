@@ -1,0 +1,15 @@
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.csproj.AssemblyReference.cache
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.GeneratedMSBuildEditorConfig.editorconfig
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.AssemblyInfoInputs.cache
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.AssemblyInfo.cs
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.csproj.CoreCompileInputs.cache
+C:\sk_bca04\drawRect\bin\Debug\net6.0\drawRect.exe
+C:\sk_bca04\drawRect\bin\Debug\net6.0\drawRect.deps.json
+C:\sk_bca04\drawRect\bin\Debug\net6.0\drawRect.runtimeconfig.json
+C:\sk_bca04\drawRect\bin\Debug\net6.0\drawRect.dll
+C:\sk_bca04\drawRect\bin\Debug\net6.0\drawRect.pdb
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.dll
+C:\sk_bca04\drawRect\obj\Debug\net6.0\refint\drawRect.dll
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.pdb
+C:\sk_bca04\drawRect\obj\Debug\net6.0\drawRect.genruntimeconfig.cache
+C:\sk_bca04\drawRect\obj\Debug\net6.0\ref\drawRect.dll
