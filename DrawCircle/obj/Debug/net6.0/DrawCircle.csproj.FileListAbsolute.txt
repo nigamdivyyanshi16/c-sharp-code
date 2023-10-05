@@ -1,0 +1,15 @@
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.csproj.AssemblyReference.cache
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.AssemblyInfoInputs.cache
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.AssemblyInfo.cs
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.csproj.CoreCompileInputs.cache
+C:\sk_bca04\DrawCircle\bin\Debug\net6.0\DrawCircle.exe
+C:\sk_bca04\DrawCircle\bin\Debug\net6.0\DrawCircle.deps.json
+C:\sk_bca04\DrawCircle\bin\Debug\net6.0\DrawCircle.runtimeconfig.json
+C:\sk_bca04\DrawCircle\bin\Debug\net6.0\DrawCircle.dll
+C:\sk_bca04\DrawCircle\bin\Debug\net6.0\DrawCircle.pdb
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.dll
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\refint\DrawCircle.dll
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.pdb
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\DrawCircle.genruntimeconfig.cache
+C:\sk_bca04\DrawCircle\obj\Debug\net6.0\ref\DrawCircle.dll
