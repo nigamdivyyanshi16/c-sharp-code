@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.AssemblyInfo.cs
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\salereport\bin\Debug\net6.0\salereport.exe
+C:\Users\DELL\source\repos\salereport\bin\Debug\net6.0\salereport.deps.json
+C:\Users\DELL\source\repos\salereport\bin\Debug\net6.0\salereport.runtimeconfig.json
+C:\Users\DELL\source\repos\salereport\bin\Debug\net6.0\salereport.dll
+C:\Users\DELL\source\repos\salereport\bin\Debug\net6.0\salereport.pdb
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.dll
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\refint\salereport.dll
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.pdb
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\salereport.genruntimeconfig.cache
+C:\Users\DELL\source\repos\salereport\obj\Debug\net6.0\ref\salereport.dll
